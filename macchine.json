@@ -1,0 +1,148 @@
+{
+  "macchine": {
+    "1": {
+      "brand": "Porsche",
+      "modello": "718",
+      "kilometraggio": 10000,
+      "condizione": "Nuova",
+      "cavalli": 300,
+      "prezzo": 60000,
+      "immagine": "718.jpg"
+    },
+    "2": {
+      "brand": "Ferrari",
+      "modello": "812 Superfast",
+      "kilometraggio": 5000,
+      "condizione": "Nuova",
+      "cavalli": 789,
+      "prezzo": 340000,
+      "immagine": "812 SUPERFAST.jpg"
+    },
+    "3": {
+      "brand": "Porsche",
+      "modello": "911",
+      "kilometraggio": 15000,
+      "condizione": "Usata",
+      "cavalli": 450,
+      "prezzo": 120000,
+      "immagine": "911.jpg"
+    },
+    "4": {
+      "brand": "Alfa Romeo",
+      "modello": "Giulia Quadrifoglio",
+      "kilometraggio": 20000,
+      "condizione": "Usata",
+      "cavalli": 510,
+      "prezzo": 75000,
+      "immagine": "Al.jpg"
+    },
+    "5": {
+      "brand": "Audi",
+      "modello": "A3",
+      "kilometraggio": 25000,
+      "condizione": "Usata",
+      "cavalli": 150,
+      "prezzo": 25000,
+      "immagine": "A3Jpg"
+    },
+    "6": {
+      "brand": "Audi",
+      "modello": "A8",
+      "kilometraggio": 10000,
+      "condizione": "Nuova",
+      "cavalli": 340,
+      "prezzo": 100000,
+      "immagine": "A8.jpg"
+    },
+    "7": {
+      "brand": "Lamborghini",
+      "modello": "Aventador",
+      "kilometraggio": 5000,
+      "condizione": "Nuova",
+      "cavalli": 730,
+      "prezzo": 400000,
+      "immagine": "Aventador.jpg"
+    },
+    "8": {
+      "brand": "Porsche",
+      "modello": "Cayenne",
+      "kilometraggio": 15000,
+      "condizione": "Usata",
+      "cavalli": 340,
+      "prezzo": 80000,
+      "immagine": "Cayenne.jpg"
+    },
+    "9": {
+      "brand": "Audi",
+      "modello": "e-tron",
+      "kilometraggio": 5000,
+      "condizione": "Nuova",
+      "cavalli": 402,
+      "prezzo": 90000,
+      "immagine": "etron.jpg"
+    },
+    "10": {
+      "brand": "Ferrari",
+      "modello": "F8 Spider",
+      "kilometraggio": 3000,
+      "condizione": "Nuova",
+      "cavalli": 710,
+      "prezzo": 275000,
+      "immagine": "F8 SPIDER.jpg"
+    },
+    "11": {
+      "brand": "Ferrari",
+      "modello": "F12 Berlinetta",
+      "kilometraggio": 12000,
+      "condizione": "Usata",
+      "cavalli": 730,
+      "prezzo": 320000,
+      "immagine": "F12 BERLINETTA.jpg"
+    },
+    "12": {
+      "brand": "Lamborghini",
+      "modello": "Huracan",
+      "kilometraggio": 8000,
+      "condizione": "Nuova",
+      "cavalli": 602,
+      "prezzo": 280000,
+      "immagine": "Huracan.jpg"
+    },
+    "13": {
+      "brand": "BMW",
+      "modello": "i4",
+      "kilometraggio": 5000,
+      "condizione": "Nuova",
+      "cavalli": 340,
+      "prezzo": 65000,
+      "immagine": "i4Jpg"
+    },
+    "14": {
+      "brand": "BMW",
+      "modello": "iX",
+      "kilometraggio": 2000,
+      "condizione": "Nuova",
+      "cavalli": 516,
+      "prezzo": 85000,
+      "immagine": "iX.jpg"
+    },
+    "15": {
+      "brand": "BMW",
+      "modello": "iX3",
+      "kilometraggio": 6000,
+      "condizione": "Nuova",
+      "cavalli": 286,
+      "prezzo": 70000,
+      "immagine": "iX3Jpg"
+    },
+    "16": {
+      "brand": "Maserati",
+      "modello": "Levante",
+      "kilometraggio": 10000,
+      "condizione": "Usata",
+      "cavalli": 430,
+      "prezzo": 90000,
+      "immagine": "Levante.jpg"
+    }
+  }
+}
